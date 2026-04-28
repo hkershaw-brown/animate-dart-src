@@ -8,7 +8,7 @@ gource DART \
 --disable-progress \
 --stop-at-end \
 --hide mouse,progress,filenames,files \
--1920x1080 \
+-1080x1280 \
 --output-ppm-stream  - \
 --highlight-users \
 --max-files 600 \
